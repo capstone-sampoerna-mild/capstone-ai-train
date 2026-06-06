@@ -3,3 +3,5 @@ scikit-learn
 numpy
 pyarrow
 tensorflow
+tensorflow-macos 
+tensorflow-metal
